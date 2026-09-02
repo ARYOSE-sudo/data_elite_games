@@ -28,6 +28,13 @@
         "password": "NDQ_p0113"
     },
     {
+        "title": "EA Sports FC 26",
+        "image": "https://i.pinimg.com/1200x/32/06/dd/3206dd46cb3cb8b2b8377119d199ed08.jpg",
+        "platform": "Steam",
+        "username": "nezlo23839",
+        "password": "Vojneski@fifa26"
+    },
+    {
         "title": "Black Myth: Wukong",
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900_2x.jpg",
         "platform": "Steam",
@@ -103,5 +110,12 @@
         "platform": "Steam",
         "username": "vcemn501",
         "password": "wocck936"
+    },
+    {
+        "title": "Elden Ring",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "vmmpk10496",
+        "password": "Allah361"
     }
 ]

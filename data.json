@@ -117,5 +117,19 @@
         "platform": "Steam",
         "username": "vmmpk10496",
         "password": "Allah361"
+    },
+    {
+        "title": "Assetto Corsa",
+        "image": "https://i.pinimg.com/736x/c0/fa/52/c0fa52a3f90b6433827c0ca334241c77.jpg",
+        "platform": "Steam",
+        "username": "markizzz2016",
+        "password": "markizzz1488"
+    },
+    {
+        "title": "Days Gone",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1259420/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "markizzz2016",
+        "password": "markizzz1488"
     }
 ]

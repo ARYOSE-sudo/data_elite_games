@@ -77,6 +77,13 @@
         "password": "2787449294"
     },
     {
+        "title": "The Last of Us Part II",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2531310/aeac394b61ac94b5d4ea939351baf3943ac0b282/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "thelast2zara",
+        "password": "Thelast2zara55"
+    },
+    {
         "title": "Sans of The Forest",
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1326470/library_600x900_2x.jpg",
         "platform": "Steam",
@@ -180,6 +187,27 @@
         "platform": "Crunchyroll",
         "username": "membrine26@gmail.com",
         "password": "Oxaam524179#"
+    },
+    {
+        "title": "Account Crunchyroll",
+        "image": "https://i.pinimg.com/1200x/89/fc/de/89fcdebedfdcf2bf3a00a49d75833c3a.jpg",
+        "platform": "Crunchyroll",
+        "username": "membrine26@gmail.com",
+        "password": "Oxaam524179#"
+    },
+    {
+        "title": "The Elder Scrolls V: Skyrim",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489830/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "whisperingbarnacle95403",
+        "password": "LavCrewMan03!#"
+    },
+    {
+        "title": "Palword",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "whisperingbarnacle95403",
+        "password": "LavCrewMan03!#"
     }
 
 ]

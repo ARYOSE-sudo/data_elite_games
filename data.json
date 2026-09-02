@@ -131,5 +131,19 @@
         "platform": "Steam",
         "username": "markizzz2016",
         "password": "markizzz1488"
+    },
+    {
+        "title": "ARC Raiders",
+        "image": "https://i.pinimg.com/736x/34/cf/2a/34cf2a4dc4d7d5d5aeae373a4770964c.jpg",
+        "platform": "Steam",
+        "username": "qfcmw82270",
+        "password": "booK455445."
+    },
+    {
+        "title": "Rust",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1609/5xfXfcSQ71pczvAb6ANmrbxT.png",
+        "platform": "Steam",
+        "username": "xwsez74818",
+        "password": "iqavl22253"
     }
 ]

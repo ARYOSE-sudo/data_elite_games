@@ -217,6 +217,41 @@
         "password": "316274235787Cm"
     },
     {
+        "title": "Mortal Shell",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBxHgDq1_Gy2ZEIWkG0sH83XNxJp66ENvsmtXhAbnrTg&s=10",
+        "platform": "Epic Games",
+        "username": "martinnoseda@gmail.com",
+        "password": "316274235787Cm"
+    },
+    {
+        "title": "Grand Theft Auto V",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/271590/library_600x900_2x.jpg",
+        "platform": "Epic Games",
+        "username": "martinnoseda@gmail.com",
+        "password": "316274235787Cm"
+    },
+    {
+        "title": "Grand Theft Auto V Enhanced",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/394239e5da54fed177bd0ab04590812f6add1bb5/library_600x900_2x.jpg",
+        "platform": "Epic Games",
+        "username": "martinnoseda@gmail.com",
+        "password": "316274235787Cm"
+    },
+    {
+        "title": "Watch Dogs",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1s5kL56QB13pB0k8F4HXH7LY7Rl3V5gqMSV6cqFoY9g&s=10",
+        "platform": "Epic Games",
+        "username": "martinnoseda@gmail.com",
+        "password": "316274235787Cm"
+    },
+    {
+        "title": "Watch Dogs 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/library_600x900_2x.jpg",
+        "platform": "Epic Games",
+        "username": "martinnoseda@gmail.com",
+        "password": "316274235787Cm"
+    },
+    {
         "title": "Among us",
         "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31",
         "platform": "Epic Games",
@@ -327,5 +362,26 @@
         "platform": "Epic Games",
         "username": "lars.keller24@hispeed.ch",
         "password": "+Fosters2422"
+    },
+    {
+        "title": "Batman: Arkham Asylum",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeayj1UdKOrOHmUCQ7Z9H9oWICqeDTQbJWpeCBVt_T4A&s=10",
+        "platform": "Epic Games",
+        "username": "martinnoseda@gmail.com",
+        "password": "316274235787Cm"
+    },
+    {
+        "title": "Batman: Arkham City",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU7SiOy68ckLfgD3Nkc7ZwxU0mA8FmigdtF-MrCuCtIQ&s=10",
+        "platform": "Epic Games",
+        "username": "martinnoseda@gmail.com",
+        "password": "316274235787Cm"
+    },
+    {
+        "title": "Batman: Arkham City",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBSK1eVUBN-yafNqBQXl-wXKOD2K493EbqrIkt5QbolA&s=10",
+        "platform": "Epic Games",
+        "username": "martinnoseda@gmail.com",
+        "password": "316274235787Cm"
     }
 ]

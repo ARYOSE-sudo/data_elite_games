@@ -259,10 +259,45 @@
         "password": "f-r-e-e.akk.tg:@hyznet"
     },
     {
-        "title": "DAYZd",
+        "title": "DAYZ",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Day_Z_cover.jpg/250px-Day_Z_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
         "platform": "Steam",
         "username": "Ly1Yn4Jh7Um3",
         "password": "En9Fv5Nq4Ws5"
+    },
+    {
+        "title": "Fortnite",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNIw-oG93YlZvzpOc7dnSN5roNf7Y0a50kfKjnHnp0PDhGlC4dX5QKdk&s=10",
+        "platform": "Epic Games",
+        "username": "monnetsisi@gmail.com",
+        "password": "baboum2007"
+    },
+    {
+        "title": "NBA 2K21",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBZL3dcwK_JAwym9XvcERGWxYyMzSI9Nx4nuuUCvOKr-pAlC6o6u7AF0&s=10",
+        "platform": "Epic Games",
+        "username": "j-rdavid@hotmail.com",
+        "password": "3A9JCD3!m6EsDW!"
+    },
+    {
+        "title": "Alien: Isolation",
+        "image": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg",
+        "platform": "Epic Games",
+        "username": "j-rdavid@hotmail.com",
+        "password": "3A9JCD3!m6EsDW!"
+    },
+    {
+        "title": "Among us",
+        "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31",
+        "platform": "Epic Games",
+        "username": "j-rdavid@hotmail.com",
+        "password": "3A9JCD3!m6EsDW!"
+    },
+    {
+        "title": "Rise of the Tomb Raider",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYUWd2qSoEAsKTBmy8C_kNcO0UAGpfc2vk3jpcty0Y-A&s=10",
+        "platform": "Epic Games",
+        "username": "468345280@qq.com",
+        "password": "LiGaolei2006"
     }
 ]

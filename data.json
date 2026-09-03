@@ -28,6 +28,27 @@
         "password": "Vojneski@fifa26"
     },
     {
+        "title": "Marvel's Spider-Man Remastered",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1817070/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "hamorilal",
+        "password": "Gk6q63F1"
+    },
+    {
+        "title": "Marvel's Spider-Man 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2651280/6fa28738ef8cde05390d3f0a9b942185b5763cbd/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "hamorilal",
+        "password": "Gk6q63F1"
+    },
+    {
+        "title": "Marvel’s Spider-Man: Miles Morales",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1817190/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "hamorilal",
+        "password": "Gk6q63F1"
+    },
+    {
         "title": "Black Myth: Wukong",
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900_2x.jpg",
         "platform": "Steam",
@@ -201,6 +222,7 @@
         "platform": "Steam",
         "username": "cw8pb2xr0lh0",
         "password": "f-r-e-e.akk.tg:@hyznet"
-    }
+    },
+
 
 ]

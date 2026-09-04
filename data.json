@@ -290,7 +290,7 @@
         "title": "Account Crunchyroll",
         "image": "https://i.pinimg.com/1200x/89/fc/de/89fcdebedfdcf2bf3a00a49d75833c3a.jpg",
         "platform": "Crunchyroll",
-        "username": "membrine26@gmail.com",
+        "username": "clovergrer25@gmail.com",
         "password": "Oxaam524179#"
     },
     {
@@ -441,20 +441,6 @@
         "password": "#$pj761122#$"
     },
     {
-        "title": "Resident evil 4",
-        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900_2x.jpg",
-        "platform": "Steam",
-        "username": "mmmm911",
-        "password": "#$pj761122#$"
-    },
-    {
-        "title": "Account Crunchyroll",
-        "image": "https://i.pinimg.com/1200x/89/fc/de/89fcdebedfdcf2bf3a00a49d75833c3a.jpg",
-        "platform": "Crunchyroll",
-        "username": "taddai.cherov@seznam.cz",
-        "password": "Taddai00"
-    },
-    {
         "title": "Call of Duty: Black Ops III",
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/311210/library_600x900_2x.jpg",
         "platform": "Steam",
@@ -537,5 +523,26 @@
         "platform": "Steam",
         "username": "forzaesporarena172",
         "password": "Safak3535"
+    },
+    {
+        "title": "Fortnite",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNIw-oG93YlZvzpOc7dnSN5roNf7Y0a50kfKjnHnp0PDhGlC4dX5QKdk&s=10",
+        "platform": "Epic Games",
+        "username": "farrelrizky161102@gmail.com",
+        "password": "Logangsters951lol"
+    },
+    {
+        "title": "Valorant",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZCVmkICI1a6Dg9Xq8NKuIpBM_DJFqSRO41d9MmtCKA&s=10",
+        "platform": "Epic Games",
+        "username": "gaspard.belon@icloud.com",
+        "password": "Gagazel5"
+    },
+    {
+        "title": "Fortnite",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNIw-oG93YlZvzpOc7dnSN5roNf7Y0a50kfKjnHnp0PDhGlC4dX5QKdk&s=10",
+        "platform": "Epic Games",
+        "username": "gaspard.belon@icloud.com",
+        "password": "Gagazel5"
     }
 ]

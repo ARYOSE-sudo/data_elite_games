@@ -397,5 +397,26 @@
         "platform": "Epic Games",
         "username": "468345280@qq.com",
         "password": "LiGaolei2006"
+    },
+    {
+        "title": "ARK Modkit",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJmfvP95acywvmhvDzVL2iBwBNQJf1nG4Q2chusgP2LMnLp5JIA7KqMQQ&s=10",
+        "platform": "Epic Games",
+        "username": "jeremy.borne83@gmail.com",
+        "password": "JERemyBO18."
+    },
+    {
+        "title": "Assassin's Creed Odyssey",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHM68a-zJxzu4FsI5em4pDHag33VV_OmPAiudhklnEA&s=10",
+        "platform": "Steam",
+        "username": "mmmm911",
+        "password": "#$pj761122#$"
+    },
+    {
+        "title": "Assassin's Creed Unity",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Assassin%27s_Creed_Unity_cover.jpg/250px-Assassin%27s_Creed_Unity_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "platform": "Steam",
+        "username": "mmmm911",
+        "password": "#$pj761122#$"
     }
 ]

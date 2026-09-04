@@ -1,5 +1,12 @@
 [
     {
+        "title": "Resident Evil Requiem",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/ed3b2cae7d15f598f41006f5f1e605ec5517b5e4/library_capsule_2x.jpg",
+        "platform": "Steam",
+        "username": "fg3e45gedf",
+        "password": "GDFG455TBBDD"
+    },
+    {
         "title": "007 First Light",
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900_2x.jpg",
         "platform": "Steam",
@@ -26,6 +33,13 @@
         "platform": "Steam",
         "username": "hamorilal",
         "password": "Gk6q63F1"
+    },
+    {
+        "title": "The Witcher 3: Wild Hunt – Complete Edition",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4k0t2y6kggrCFKWdq231P4d51B_owWaON7m8RJkx36w&s=10",
+        "platform": "Steam",
+        "username": "fg3e45gedf",
+        "password": "GDFG455TBBDD"
     },
     {
         "title": "MECCHA CHAMELEON",
@@ -415,6 +429,20 @@
     {
         "title": "Assassin's Creed Unity",
         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Assassin%27s_Creed_Unity_cover.jpg/250px-Assassin%27s_Creed_Unity_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "platform": "Steam",
+        "username": "mmmm911",
+        "password": "#$pj761122#$"
+    },
+    {
+        "title": "Resident evil 4",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "mmmm911",
+        "password": "#$pj761122#$"
+    },
+    {
+        "title": "Resident evil 4",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900_2x.jpg",
         "platform": "Steam",
         "username": "mmmm911",
         "password": "#$pj761122#$"

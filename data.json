@@ -607,5 +607,75 @@
         "platform": "Steam",
         "username": "madishare11111",
         "password": "79cBeTCpEZjABC_"
+    },
+    {
+        "title": "Silent Hill f",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/0712ff9970f602f1099816cf607ab659566befb0/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "ngwlf77048",
+        "password": "qodf08169Vggas"
+    },
+    {
+        "title": "Devour",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1274570/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gufiarkt1224",
+        "password": "Iulian1234567890"
+    },
+    {
+        "title": "Left 4 Dead",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJoJEJCRoQi037CTQRTl5y0LBvXXtHdF_nfaqYzL0kA&s",
+        "platform": "Steam",
+        "username": "gufiarkt1224",
+        "password": "Iulian1234567890"
+    },
+    {
+        "title": "Lunch Lady",
+        "image": "https://media.senscritique.com/media/000020380908/0/Lunch_Lady.jpg",
+        "platform": "Steam",
+        "username": "gufiarkt1224",
+        "password": "Iulian1234567890"
+    },
+    {
+        "title": "EA Sports FC 26",
+        "image": "https://i.pinimg.com/1200x/32/06/dd/3206dd46cb3cb8b2b8377119d199ed08.jpg",
+        "platform": "Steam",
+        "username": "zahscnp9av1i",
+        "password": "AK94W0fnsxR59bLW9"
+    },
+    {
+        "title": "Rust",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1609/5xfXfcSQ71pczvAb6ANmrbxT.png",
+        "platform": "Steam",
+        "username": "litoryleag",
+        "password": "4T5ts8ZSu"
+    },
+    {
+        "title": "Hitman: Absolution",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203140/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "pbred4",
+        "password": "PrezleyB0"
+    },
+    {
+        "title": "RAFT",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "pbred4",
+        "password": "PrezleyB0"
+    },
+    {
+        "title": "Subnautica",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "pbred4",
+        "password": "PrezleyB0"
+    },
+    {
+        "title": "PAYDAY 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/218620/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "pbred4",
+        "password": "PrezleyB0"
     }
 ]

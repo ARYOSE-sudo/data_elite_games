@@ -600,5 +600,19 @@
         "platform": "Epic Games",
         "username": "dandre3172@gmail.com",
         "password": "DAkarai!!2013"
+    },
+    {
+        "title": "Stray",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1332010/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "pmrh73716",
+        "password": "chengyu2444477"
+    },
+    {
+        "title": "Control",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/870780/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "katsukiyo606",
+        "password": "k50E8sK9DhW27dB"
     }
 ]

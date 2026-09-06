@@ -852,5 +852,12 @@
         "platform": "Steam",
         "username": "mmzjlo8x",
         "password": "glIIsTNozyiu"
+    },
+    {
+        "title": "Fortnite",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNIw-oG93YlZvzpOc7dnSN5roNf7Y0a50kfKjnHnp0PDhGlC4dX5QKdk&s=10",
+        "platform": "Epic Games",
+        "username": "martinsitoriver@gmail.com",
+        "password": "Martin1234"
     }
 ]

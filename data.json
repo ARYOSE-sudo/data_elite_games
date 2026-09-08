@@ -930,5 +930,13 @@
         "username": "dziczek2k18",
         "password": "Jasniewski02052003"
         
+    },
+    {
+        "title": "Account Xbox Game Pass",
+        "image": "https://www.journaldugeek.com/app/uploads/2026/04/retour-xbox-1600x900.jpg",
+        "platform": "Xbox",
+        "username": "russo_paulo@msn.com",
+        "password": "Alexandre1973!"
+        
     }
 ]

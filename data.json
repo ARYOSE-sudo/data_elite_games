@@ -21,6 +21,20 @@
         "password": "Tam0768838298@@"
     },
     {
+        "title": "Crimson Desert",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3321460/0ea942465fd1dff8a7fbc11cc9fca8c476c5e5ae/library_capsule_2x.jpg",
+        "platform": "Steam",
+        "username": "arenda9121",
+        "password": "Ytrnj274"
+    },
+    {
+        "title": "Pragmata",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3357650/2c65f388cb3ac6631c8a38ff1a59903263fc70e9/library_capsule_2x.jpg",
+        "platform": "Steam",
+        "username": "frwzx76017",
+        "password": "https://funpay.com/users/16100391/"
+    },
+    {
         "title": "Red Dead Redemption 2",
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900_2x.jpg",
         "platform": "Steam",
@@ -63,18 +77,18 @@
         "password": "Gk6q63F1"
     },
     {
-        "title": "Bodycam",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15nyTe2OFDSToIbhSOqbJr2tVN4s34Kfs8Hta4XQuKsxH19n1zFdqJJQ&s=10",
+        "title": "How to fish",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4001890/280684ffc5f512083f4e81a551df2b9ae3ff71db/library_capsule_2x.jpg",
         "platform": "Steam",
-        "username": "rxiqgb0vep",
-        "password": "Enzodu66"
+        "username": "5007FL",
+        "password": "Fdhjhf997" 
     },
     {
-        "title": "NBA 2K25",
-        "image": "https://imgproxy.eneba.games/kfxJpaFoiWjElZMT3Kr9J0v5Icp-4UR6zFtMAbfs3oU/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9f/OVdPeFo1Sk1URFhv/M3g1OGcxU2JNekdr/SjJQMkhDbWl3WVFN/YnZ4YkFBLmpwZw",
+        "title": "The Blood of Dawnwalker",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751260/82769ab631e6e68b4a38bbba9fb5b74eb0d7db8d/library_capsule_2x.jpg",
         "platform": "Steam",
-        "username": "Tr6Bp2Bh3Nz7",
-        "password": "Dq6Nk2Qi6Nz9"
+        "username": "dssanguoqunying017",
+        "password": "Dashe00585"
     },
     {
         "title": "Marvel’s Spider-Man: Miles Morales",
@@ -83,6 +97,7 @@
         "username": "hamorilal",
         "password": "Gk6q63F1"
     },
+    
     {
         "title": "Battlefield™ 6",
         "image": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cock1w.jpg",
@@ -938,5 +953,26 @@
         "username": "russo_paulo@msn.com",
         "password": "Alexandre1973!"
         
+    },
+    {
+        "title": "007 First Light",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/1159a696d257cbeb3f4479be3466cfba2ae938a0/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "5007FL",
+        "password": "Fdhjhf997" 
+    },
+    {
+        "title": "MECCHA CHAMELEON",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03uyAyJziSbLd1ARULEJrTzPET0a1A-0Zj_dbSHGbWg&s=10",
+        "platform": "Steam",
+        "username": "5007FL",
+        "password": "Fdhjhf997"
+    },
+    {
+        "title": "NBA 2K25",
+        "image": "https://imgproxy.eneba.games/kfxJpaFoiWjElZMT3Kr9J0v5Icp-4UR6zFtMAbfs3oU/rs:fit:300/ar:1/czM6Ly9wcm9kdWN0/cy5lbmViYS5nYW1l/cy9wcm9kdWN0cy9f/OVdPeFo1Sk1URFhv/M3g1OGcxU2JNekdr/SjJQMkhDbWl3WVFN/YnZ4YkFBLmpwZw",
+        "platform": "Steam",
+        "username": "Tr6Bp2Bh3Nz7",
+        "password": "Dq6Nk2Qi6Nz9"
     }
 ]

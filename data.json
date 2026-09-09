@@ -253,7 +253,7 @@
     },
     {
         "title": "Assassin's Creed Syndicate",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpB5V6if8UWCnvBDmSV3uds4h6qDKr6i5OqPLJqkigKQ&s=10",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368500/library_600x900_2x.jpg",
         "platform": "Epic Games",
         "username": "martinnoseda@gmail.com",
         "password": "316274235787Cm"
@@ -456,14 +456,14 @@
     },
     {
         "title": "Assassin's Creed Odyssey",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHM68a-zJxzu4FsI5em4pDHag33VV_OmPAiudhklnEA&s=10",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/812140/library_600x900_2x.jpg",
         "platform": "Steam",
         "username": "mmmm911",
         "password": "#$pj761122#$"
     },
     {
         "title": "Assassin's Creed Unity",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Assassin%27s_Creed_Unity_cover.jpg/250px-Assassin%27s_Creed_Unity_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289650/library_600x900_2x.jpg",
         "platform": "Steam",
         "username": "mmmm911",
         "password": "#$pj761122#$"
@@ -1057,5 +1057,26 @@
         "platform": "Crunchyroll",
         "username": "luanbariani@outlook.com",
         "password": "magali123"
+    },
+    {
+        "title": "Half-Life 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/220/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "brbfr20546",
+        "password": "ehpjn29208"
+    },
+    {
+        "title": "INZOI",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "8667951632",
+        "password": "Dsa4321#"
+    },
+    {
+        "title": "INZOI",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "8667951632",
+        "password": "Dsa4321#"
     }
 ]

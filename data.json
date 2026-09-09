@@ -1120,5 +1120,11 @@
         "platform": "Steam",
         "username": "falorael",
         "password": "spa-2020"
+    },
+    {
+        "title": "Account Netflix",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMznz1zJ3fNTFggg26u-HrG1L7P1uQHJ4uqv7cishUA&s=10",
+        "platform": "Netflix",
+        "cookie":"iuufbghuhuig"
     }
 ]

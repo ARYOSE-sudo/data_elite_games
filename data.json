@@ -42,6 +42,13 @@
         "password": "https://funpay.com/users/16100391/"
     },
     {
+        "title": "Beast of Reincarnation",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001760/f257ca2dc23c5590ade297fca68f3cab2e4edb4e/library_capsule_2x.jpg",
+        "platform": "Steam",
+        "username": "dssanguoqunying017",
+        "password": "Dashe00585"
+    },
+    {
         "title": "Red Dead Redemption 2",
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900_2x.jpg",
         "platform": "Steam",
@@ -1125,7 +1132,16 @@
         "title": "Account Netflix",
         "platform": "Netflix",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMznz1zJ3fNTFggg26u-HrG1L7P1uQHJ4uqv7cishUA&s=10",
-        "cookie":"iuufbghuhuig",
+        "cookie":".netflix.com	TRUE	/	FALSE	1816746365	nfvdid	BQFmAAEBEKNXsIU0saMBImHq1SQ_cWpgQIdgll1HjBzrCq-JwrCxVGgyUsVoc5-qkfzCWV79cdBuHMOHHuF_YtSlDoooo7uVV5rX8GyRSbROccy_Eg4l7Q4wUBXniyKKoJA2vaOgiNSBYQByP04P8vwzpZvf6h8i
+www.netflix.com	FALSE	/	FALSE	1786341270	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1786341268	gsid	3334575d-a172-4407-9238-e6f002381ada
+.netflix.com	TRUE	/	TRUE	1817870748	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKnA3KntPervccHdiHNy2oUfUIuC4sODfx7zOkZDEIwbNljlwxNztgTEMcKKB4sFTLyLRas_uNq59qFQW49kT5z5PiVt-rxMzSjnRGlb9uiA0KhhgpBuCHuwcW9NCbEMBcpkPg8qS4P_-Io4esjaM4Us0SBkUSFep0RwQfxEyqnI-IQ20wM-ASQWwhEn7sp-LUqBfYgJ0TebzuCvS4uPsbcFOVDHLoaSpvFZdW4qQrOF7AuSs7DX55gC3k54m15YTCKalXNXe_2N-5i_HgBkVEWHVYPvRzJGV_ZSUfmWM1Sv0XJoZx4DzSiulvoNTnDacYUdmNAsPG4LwDbUh7OTGNdUAasBqmICdZ2JhUjtKap4_qwWm1Xo9wMz0acZdSosPM8VTTVv4GSE2q9Uk3V_EcgjJJxB77iVTqeFxeXhiMl0xsOX3o2MTxIVTW8mjurIlSuu2nTBjnUvgzBPRKOMDB3g7korXXdQ5F1ZV3XhzjE0Rq-F80d6x_SUBH1b5ANelv_SPLCHGq2pEBM8vnexvkU--WNhZzYB0TkmUmslri5IhZWjfg3jQZGtRgGIg4KDB5JLHtipKRxpaehzw..%26pg%3DUSJHKWCQSFBDDGVRBY3QW2G5QQ%26ch%3DAQEAEAABABSd84uG-twHXT7N11NHykYR1Gq5fOWwJR0.
+.netflix.com	TRUE	/	FALSE	1817870749	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+10+2026+01%3A05%3A49+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7c97d0d6-0140-4259-b78a-4161d48c6ae3&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1785210281480&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1817870748	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ2Ee_t5hG9YOC8FKj-CEX0txciAExSDJk.%26dt%3D1786334721834
+.netflix.com	TRUE	/	FALSE	1794110750	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794110750	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794110750	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1786338414	profilesNewSession	0",
         "link":"https://google.com"
     }
 ]

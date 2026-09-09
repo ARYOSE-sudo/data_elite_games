@@ -1073,10 +1073,52 @@
         "password": "Dsa4321#"
     },
     {
-        "title": "INZOI",
-        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2456740/library_600x900_2x.jpg",
+        "title": "Assassin's Cread II",
+        "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/AC2_GameName_Store_Portrait_1200x1600_1200x1600-2c5e000213988c5dde375bb2602e9986",
         "platform": "Steam",
-        "username": "8667951632",
-        "password": "Dsa4321#"
+        "username": "nikopres12",
+        "password": "bF3Puq9NOOtB2515"
+    },
+    {
+        "title": "Pacify",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/967050/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "4eiwghq2z5f180xt",
+        "password": "X7UCV7XBZ2IC122"
+    },
+    {
+        "title": "Assassin's Cread Brotherhood",
+        "image": "https://data.xxlgamer.com/products/1495/npX1jcYoHSlVey-big.jpg",
+        "platform": "Steam",
+        "username": "falorael",
+        "password": "spa-2020"
+    },
+    {
+        "title": "Watch Dogs 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447040/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "falorael",
+        "password": "spa-2020"
+    },
+    {
+        "title": "FINAL FANTASY XVI",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2515020/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "falorael",
+        "password": "spa-2020"
+    },
+    {
+        "title": "Dishonored 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/403640/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "falorael",
+        "password": "spa-2020"
+    },
+    {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "falorael",
+        "password": "spa-2020"
     }
 ]

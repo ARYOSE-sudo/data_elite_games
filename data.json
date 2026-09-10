@@ -1,6 +1,6 @@
 [
     {
-        "title": "Assassin's Cread Shadows",
+        "title": "Assassin's Creed Shadows",
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/bdab6ed673aea5877d76e8c99c696ced92cf0d12/library_capsule_2x.jpg",
         "platform": "Steam",
         "username": "guryan153",
@@ -1080,7 +1080,7 @@
         "password": "Dsa4321#"
     },
     {
-        "title": "Assassin's Cread II",
+        "title": "Assassin's Creed II",
         "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/AC2_GameName_Store_Portrait_1200x1600_1200x1600-2c5e000213988c5dde375bb2602e9986",
         "platform": "Steam",
         "username": "nikopres12",
@@ -1094,7 +1094,7 @@
         "password": "X7UCV7XBZ2IC122"
     },
     {
-        "title": "Assassin's Cread Brotherhood",
+        "title": "Assassin's Creed Brotherhood",
         "image": "https://data.xxlgamer.com/products/1495/npX1jcYoHSlVey-big.jpg",
         "platform": "Steam",
         "username": "falorael",
@@ -1176,5 +1176,68 @@
         "platform": "Steam",
         "username": "Ou4Bd5Uw2Qp9",
         "password": "Arb112233"
+    },
+    {
+        "title": "Assassin's Creed",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOquHYk_Ahl82xrmidGenm8r3ZS7eKQnjflfuLOqGKDpM2MJjmT0k8GQU&s=10",
+        "platform": "Steam",
+        "username": "ecsg61998",
+        "password": "Creed7le@1122@1"
+    },
+    {
+        "title": "Assassin's Creed Revelations",
+        "image": "https://store.ubisoft.com/on/demandware.static/-/Sites-masterCatalog/default/dw88ca1535/images/large/56c4948188a7e300458b46d2.jpg",
+        "platform": "Steam",
+        "username": "ecsg61998",
+        "password": "Creed7le@1122@1"
+    },
+    {
+        "title": "Assassin's Creed III Remastered",
+        "image": "https://cdn2.steamgriddb.com/grid/f0ce59b6bf8e03499c788c348919a196.jpg",
+        "platform": "Steam",
+        "username": "ecsg61998",
+        "password": "Creed7le@1122@1"
+    },
+    {
+        "title": "Assassin's Creed liberation HD",
+        "image": "https://i.gadgets360cdn.com/products/large/674da13c4ebcc4cf9e4b8987942e4d2c-1000x1500-1655289311.png",
+        "platform": "Steam",
+        "username": "ecsg61998",
+        "password": "Creed7le@1122@1"
+    },
+    {
+        "title": "Assassin's Creed Freedom Cry",
+        "image": "https://static.wikia.nocookie.net/assassinscreed/images/2/23/FreedomCry-Poster.jpg/revision/latest?cb=20131105154219",
+        "platform": "Steam",
+        "username": "ecsg61998",
+        "password": "Creed7le@1122@1"
+    },
+    {
+        "title": "Assassin’s Creed Chronicles China",
+        "image": "https://static.wikia.nocookie.net/assassinscreed/images/5/54/Assassin%27s_Creed_Chronicles_-_China.jpg/revision/latest?cb=20140922183751",
+        "platform": "Steam",
+        "username": "ecsg61998",
+        "password": "Creed7le@1122@1"
+    },
+    {
+        "title": "Assassin’s Creed India",
+        "image": "https://static.wikia.nocookie.net/assassinscreed/images/1/19/Assassin%27s_Creed_Chronicles_India_cover.png/revision/latest?cb=20151208213244&path-prefix=fr",
+        "platform": "Steam",
+        "username": "ecsg61998",
+        "password": "Creed7le@1122@1"
+    },
+    {
+        "title": "Assassin’s Creed Russia",
+        "image": "https://static.wikia.nocookie.net/assassinscreed/images/3/3e/ACCR_Cover.jpg/revision/latest?cb=20151210013614",
+        "platform": "Steam",
+        "username": "ecsg61998",
+        "password": "Creed7le@1122@1"
+    },
+    {
+        "title": "Assassin’s Creed Rogue",
+        "image": "https://cdn1.epicgames.com/offer/34f7e1e275924bb6a90074920f9c1696/ACRogueStandardPortrait_1200x1600-cf40340a038cf23a293629dce0e9a62c",
+        "platform": "Steam",
+        "username": "ecsg61998",
+        "password": "Creed7le@1122@1"
     }
 ]

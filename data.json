@@ -1139,6 +1139,7 @@
         "title": "Account Netflix",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwtMkP4JxarVuKta_Db8yRoNGSIZQXFBXqhnkB5BcWA&s=10",
         "platform": "Netflix",
-        "cookie": "https://www.mediafire.com/file/rx1nam5u41m2vh9/netflex-cookie.txt/file"
+        "cookie": "https://www.mediafire.com/file/rx1nam5u41m2vh9/netflex-cookie.txt/file",
+        "link":""
     }
 ]

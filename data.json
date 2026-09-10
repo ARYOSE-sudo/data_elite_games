@@ -1127,5 +1127,12 @@
         "platform": "Steam",
         "username": "falorael",
         "password": "spa-2020"
-    }
+    },
+    {
+        "title": "Account Crunchyroll",
+        "image": "https://i.pinimg.com/1200x/89/fc/de/89fcdebedfdcf2bf3a00a49d75833c3a.jpg",
+        "platform": "Crunchyroll",
+        "username": "ef239964@gmail.com",
+        "password": "Edgar7137"
+    },
 ]

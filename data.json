@@ -1239,5 +1239,11 @@
         "platform": "Steam",
         "username": "ecsg61998",
         "password": "Creed7le@1122@1"
+    },
+    {
+        "title": "Account Premium Steam Account",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3035570/library_600x900_2x.jpghttps://example.com/epic.jpg",
+        "platform": "VIP",
+        "description": "Games: Fortnite, GTA V, Fall Guys, Rocket League"
     }
 ]

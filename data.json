@@ -1244,5 +1244,11 @@
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/bdab6ed673aea5877d76e8c99c696ced92cf0d12/library_capsule_2x.jpg",
         "platform": "VIP",
         "description": "Games: , Assassin's Creed Shadows"
+    },
+    {
+        "title": "Resonance A Plague Tale Legacy",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2713000/163fce5aece8c0e837705084309d9508380672ae/library_capsule_2x.jpg",
+        "platform": "VIP",
+        "description": "Games: , Resonance A Plague Tale Legacy"
     }
 ]

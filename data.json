@@ -1269,5 +1269,11 @@
         "platform": "Steam",
         "username": "Fx5Da5Fx7Gu4",
         "password": "Fd0Ge8Sh9Zj3"
+    },
+    {
+        "title": "The Blood of Dawnwalker",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751260/82769ab631e6e68b4a38bbba9fb5b74eb0d7db8d/library_capsule_2x.jpg",
+        "platform": "VIP",
+        "description": "Games: The Blood of Dawnwalker"
     }
 ]

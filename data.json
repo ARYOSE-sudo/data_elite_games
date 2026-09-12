@@ -1267,5 +1267,152 @@
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751260/82769ab631e6e68b4a38bbba9fb5b74eb0d7db8d/library_capsule_2x.jpg",
         "platform": "VIP",
         "description": "Games: The Blood of Dawnwalker"
+    },
+    {
+        "title": "Call of Duty Black Ops",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/02/CoD_Black_Ops_cover.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "platform": "Steam",
+        "username": "dorstroi",
+        "password": "Ena0930ad"
+    },
+    {
+        "title": "Call of Duty Black Ops II",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202970/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "rayzzderechte",
+        "password": "marpanov"
+    },
+    {
+        "title": "Call of Duty Black Ops III",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/202970/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Call of Duty Modern Warfare 2 (2009)",
+        "image": "https://cdn2.steamgriddb.com/grid/280fb9d906d1b5e4c81cbca4d90040a9.png",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Call of Duty Modern Warfare 3 (2011)",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115300/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "CyberPunk 2077",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/fc7064f4a8ee2960eb51f5872d7990d771f26d2e/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Days Gone",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1259420/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Dead Island 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/934700/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "DOOM",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/379720/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "DOOM Eternal",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/782330/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "The Elder Scrolls V: Skyrim",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489830/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Forza Horizon 5",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Ghost of Tsushima DIRECTOR'S CUT",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Horizon Zero Dawn Remastered",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2561580/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Left 4 Dead 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Portal",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/400/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Portal 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Rise of the Tomb Raider",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391220/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "The Witcher 3: Wild Hunt – Complete Edition",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Unturned",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Unturned_Steam_artwork.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
+    },
+    {
+        "title": "Among us",
+        "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31",
+        "platform": "Steam",
+        "username": "gkbv45294",
+        "password": "gAYCATS1!"
     }
 ]

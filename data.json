@@ -1414,5 +1414,40 @@
         "platform": "Steam",
         "username": "gkbv45294",
         "password": "gAYCATS1!"
+    },
+    {
+        "title": "Account Netflix",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwtMkP4JxarVuKta_Db8yRoNGSIZQXFBXqhnkB5BcWA&s=10",
+        "platform": "Netflix",
+        "cookie": "https://www.mediafire.com/file/3szo91bzd1wj7uj/netflix-cookie-2.txt/file",
+        "link":"https://www.netflix.com/"
+    },
+    {
+        "title": "Account Netflix",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwtMkP4JxarVuKta_Db8yRoNGSIZQXFBXqhnkB5BcWA&s=10",
+        "platform": "Netflix",
+        "cookie": "https://www.mediafire.com/file/uj6plyrrtwv8klu/netflix-cookie-3.txt/file",
+        "link":"https://www.netflix.com/"
+    },
+    {
+        "title": "Account Netflix",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwtMkP4JxarVuKta_Db8yRoNGSIZQXFBXqhnkB5BcWA&s=10",
+        "platform": "Netflix",
+        "cookie": "https://www.mediafire.com/file/5nx7b6cdkoigyh9/netflix-cookie-4.txt/file",
+        "link":"https://www.netflix.com/"
+    },
+    {
+        "title": "Account Netflix",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwtMkP4JxarVuKta_Db8yRoNGSIZQXFBXqhnkB5BcWA&s=10",
+        "platform": "Netflix",
+        "cookie": "https://www.mediafire.com/file/93b21e91k0vgsnj/netflix-cookie-5.txt/file",
+        "link":"https://www.netflix.com/"
+    },
+    {
+        "title": "Account Netflix",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwtMkP4JxarVuKta_Db8yRoNGSIZQXFBXqhnkB5BcWA&s=10",
+        "platform": "Netflix",
+        "cookie": "https://www.mediafire.com/file/3usfk03hj625q81/netflix-cookie-6.txt/file",
+        "link":"https://www.netflix.com/"
     }
 ]

@@ -1644,7 +1644,14 @@
         "title": "Account Netflix",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwtMkP4JxarVuKta_Db8yRoNGSIZQXFBXqhnkB5BcWA&s=10",
         "platform": "Netflix",
-        "cookie": "https://www.mediafire.com/file/raj1gep242s8g75/netflix-cookie-7.txt/file",
+        "cookie": "https://www.mediafire.com/file/0ofe92qlz0czgml/netflix-cookie-8.txt/file",
+        "link":"https://www.netflix.com/"
+    },
+    {
+        "title": "Account Netflix",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwtMkP4JxarVuKta_Db8yRoNGSIZQXFBXqhnkB5BcWA&s=10",
+        "platform": "Netflix",
+        "cookie": "https://www.mediafire.com/file/5qw4sscdx0ig9lx/netflix-cookie-9.txt/file",
         "link":"https://www.netflix.com/"
     }
 ]

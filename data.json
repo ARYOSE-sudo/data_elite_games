@@ -1653,5 +1653,19 @@
         "platform": "Netflix",
         "cookie": "https://www.mediafire.com/file/5qw4sscdx0ig9lx/netflix-cookie-9.txt/file",
         "link":"https://www.netflix.com/"
+    },
+    {
+        "title": "Account Netflix",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwtMkP4JxarVuKta_Db8yRoNGSIZQXFBXqhnkB5BcWA&s=10",
+        "platform": "Netflix",
+        "cookie": "https://www.mediafire.com/file/3cmnstpbosp86nv/netflix-cookie-10.txt/file",
+        "link":"https://www.netflix.com/"
+    },
+    {
+        "title": "Account Netflix",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwtMkP4JxarVuKta_Db8yRoNGSIZQXFBXqhnkB5BcWA&s=10",
+        "platform": "Netflix",
+        "cookie": "https://www.mediafire.com/file/hdckfuw3h481y8s/netflix-cookie-11.txt/file",
+        "link":"https://www.netflix.com/"
     }
 ]

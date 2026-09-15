@@ -1665,5 +1665,47 @@
         "date": "September 11, 2026",
         "size": "37.8 MB",
         "rating": 4.5
+    },
+    {
+        "title": "Euro Truck Simulator 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "rrt61j5j2yh5z",
+        "password": "wbp35x2rr40w0"
+    },
+    {
+        "title": "Farming Simulator 15",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM4kHc2UbBmwe5zUY3FrcgD98n9Flm3WN56OZRI4PdsLgCrfIHtNhyVtc&s=10",
+        "platform": "Steam",
+        "username": "rrt61j5j2yh5z",
+        "password": "wbp35x2rr40w0"
+    },
+    {
+        "title": "Farming Simulator 19",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIFiFQFD9XFtC3uWKoXpT1NOrUfTUssI9CiJgvb3Gnw&s=10",
+        "platform": "Steam",
+        "username": "rrt61j5j2yh5z",
+        "password": "wbp35x2rr40w0"
+    },
+    {
+        "title": "Farming Simulator 22",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1248130/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "rrt61j5j2yh5z",
+        "password": "wbp35x2rr40w0"
+    },
+    {
+        "title": "Counter Strike Global Offensive",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/CSGOcoverMarch2020.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "platform": "Steam",
+        "username": "rrt61j5j2yh5z",
+        "password": "wbp35x2rr40w0"
+    },
+    {
+        "title": "ARC Raiders",
+        "image": "https://i.pinimg.com/736x/34/cf/2a/34cf2a4dc4d7d5d5aeae373a4770964c.jpg",
+        "platform": "Steam",
+        "username": "ColdMindn",
+        "password": "2003AfterRain"
     }
 ]

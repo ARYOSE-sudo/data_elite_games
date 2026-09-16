@@ -28,13 +28,6 @@
         "password": "f-r-e-e.akk.tg:@hyznet"
     },
     {
-        "title": "Crimson Desert",
-        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3321460/0ea942465fd1dff8a7fbc11cc9fca8c476c5e5ae/library_capsule_2x.jpg",
-        "platform": "Steam",
-        "username": "arenda9121",
-        "password": "Ytrnj274"
-    },
-    {
         "title": "Pragmata",
         "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3357650/2c65f388cb3ac6631c8a38ff1a59903263fc70e9/library_capsule_2x.jpg",
         "platform": "Steam",
@@ -110,6 +103,20 @@
         "platform": "Steam",
         "username": "kruty3",
         "password": "bossenergi"
+    },
+    {
+        "title": "Farming Simulator 25",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2300320/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "urbyc78793",
+        "password": "DpEANvSa5VON"
+    },
+    {
+        "title": "Marvel's Spider-Man 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2651280/6fa28738ef8cde05390d3f0a9b942185b5763cbd/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "PiterP2025",
+        "password": "Hbvcfuhvf45567.!"
     },
     {
         "title": "Battlefield™ 6",
@@ -1707,5 +1714,131 @@
         "platform": "Steam",
         "username": "ColdMindn",
         "password": "2003AfterRain"
+    },
+    {
+        "title": "Forza Horizon 5",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "flusstim28893",
+        "password": "https://funpay.com/users/6442502/"
+    },
+    {
+        "title": "PC Building Simulator",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/PC_Building_Simulator_Cover.png/250px-PC_Building_Simulator_Cover.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "platform": "Steam",
+        "username": "flusstim28893",
+        "password": "https://funpay.com/users/6442502/"
+    },
+    {
+        "title": "KENA",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1954200/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "urbyc78793",
+        "password": "DpEANvSa5VON"
+    },
+    {
+        "title": "Pacify",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/967050/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "zazaxe4",
+        "password": "37191610z"
+    },
+    {
+        "title": "Palword",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "mchk83036",
+        "password": "Fruzee19121998x!"
+    },
+    {
+        "title": "Les Aventures extraordinaires de Captain Spirit",
+        "image": "https://gh.cdn.sewest.net/assets/ident//games/the-awesome-adventures-of-captain-spirit/fr_FR/GamePage_Header_Portrait_CS.jpg?quality=65&width=66%25&height=66%25",
+        "platform": "Steam",
+        "username": "odindun123",
+        "password": "https://funpay.com/users/10387669/"
+    },
+    {
+        "title": "Bully: Scholarship Edition",
+        "image": "https://images.ctfassets.net/h1rqp7q66d54/4yb8h87qRjvnQRno2GHAeE/f8917b5094af43819cfb2751ce6135c1/BULLY_SE_FOB_1212x1497_LOGO_V01.jpg",
+        "platform": "Steam",
+        "username": "odindun123",
+        "password": "https://funpay.com/users/10387669/"
+    },
+    {
+        "title": "Dead Island 2",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/934700/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "odindun123",
+        "password": "https://funpay.com/users/10387669/"
+    },
+    {
+        "title": "Mortal Kombat X",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWY2ZjI5MWQtYjQxYS00ZDY3LTk2NDQtYTRhNDY3NWY0YTlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "platform": "Steam",
+        "username": "odindun123",
+        "password": "https://funpay.com/users/10387669/"
+    },
+    {
+        "title": "Ranch Simulator",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1119730/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "odindun123",
+        "password": "https://funpay.com/users/10387669/"
+    },
+    {
+        "title": "Limbo",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48000/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "odindun123",
+        "password": "https://funpay.com/users/10387669/"
+    },
+    {
+        "title": "Buckshot Roulette",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2835570/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "odindun123",
+        "password": "https://funpay.com/users/10387669/"
+    },
+    {
+        "title": "Among us",
+        "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31",
+        "platform": "Steam",
+        "username": "odindun123",
+        "password": "https://funpay.com/users/10387669/"
+    },
+    {
+        "title": "Dark Souls III",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/374320/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "sqrvp22639",
+        "password": "qevxp87867"
+    },
+    {
+        "title": "Mortal Kombat 1",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1971870/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "sqrvp22639",
+        "password": "qevxp87867"
+    },
+    {
+        "title": "Ready or Not",
+        "image": "https://image.jeuxvideo.com/medias-sm/175431/1754311165-9094-jaquette-avant.png",
+        "platform": "Steam",
+        "username": "sqrvp22639",
+        "password": "qevxp87867"
+    },
+    {
+        "title": "Dark Souls Remasted",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570940/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "ykxhs29020",
+        "password": "qwxtz97539"
+    },
+    {
+        "title": "Street Fighter V",
+        "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/310950/library_600x900_2x.jpg",
+        "platform": "Steam",
+        "username": "ykxhs29020",
+        "password": "qwxtz97539"
     }
 ]
